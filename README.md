@@ -1,6 +1,6 @@
 # Sudoku
 
-This is an Sudoku solver spreadsheet; the embedded macro solves any Sudoku puzzle.<br>
+This is an Sudoku solver spreadsheet. The embedded macro solves any Sudoku puzzle.<br>
 
 Solving strategies implemented in the spreadsheet are:<br>
 [X]   Basic Solving<br>

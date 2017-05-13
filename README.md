@@ -19,3 +19,6 @@ Solving strategies implemented in the spreadsheet are:<br>
 The display uses various colors so that every algorithm is self explanatory and can be clearly understood. The macro contains useful links to the necessary algorithms and background information.<br>
 
 The algorithm is not particularly optimized and basically rotates through all the strategies acceptable for the user (strategies can be selected or deselected) until a solution is found.
+
+
+![Screenshot](https://s12.postimg.org/xd08r4jf1/sudoku.png)
